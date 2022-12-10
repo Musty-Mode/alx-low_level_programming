@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 	/**
-	 * main - Determine if the last digit of a random number is
-	 * greater than or less than 5, or is zero..
+	 * main - Entry point
 	 * Return: 0 on success.
 	 */
 int main(void)
